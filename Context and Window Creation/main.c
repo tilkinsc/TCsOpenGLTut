@@ -2,7 +2,6 @@
 #include <stdio.h> // fputs(const char* s, FILE* stream)
 
 
-#include "GL/glew.h"
 #include "GLFW/glfw3.h"
 
 
